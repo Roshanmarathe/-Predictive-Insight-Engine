@@ -607,23 +607,6 @@ A house-price prediction system can support real-world real-estate decision maki
 
 <br/>
 
-## 🚦 Getting Started
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
-
-# 2. Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate     # Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Launch the notebook
-jupyter notebook house_price_prediction.ipynb
-```
 
 <details>
 <summary><b>📁 Suggested project structure</b></summary>
@@ -686,12 +669,6 @@ Data → Exploration → Modeling → Optimization → Evaluation → Diagnostic
 <div align="center">
 
 If you found this project useful, please consider giving it a **star** — it helps a lot!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/house-price-prediction&type=Date)](https://star-history.com/#your-username/house-price-prediction&Date)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:00C6FF&height=150&section=footer&animation=fadeIn"/>
 
 **🏠📊 Real Estate House Price Prediction**
 *Machine Learning • Regression • Optimization • Diagnostics*
